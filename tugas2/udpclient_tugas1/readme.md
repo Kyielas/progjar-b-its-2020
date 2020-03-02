@@ -1,7 +1,7 @@
-Penjelasan
+<h3>Penjelasan</h3>
 
-tugas 1a
-dapat dilihat list paket saat pengiriman file tugas 1a, terdapat paket yang mengirim nama file dan isi file oleh client, lalu diterima oleh server.
+### Tugas 1A
+>dapat dilihat list paket saat pengiriman file tugas 1a, terdapat paket yang mengirim nama file dan isi file oleh client, lalu diterima oleh server.
 
-tugas 1b
-dapat dilihat list paket, client merequest suatu file, lalu server mencari file tersebut dan mengirimkan isinya. 
+### Tugas 1B
+>dapat dilihat list paket, client menrequest suatu file, lalu server mencari file tersebut dan mengirimkan isinya. 
