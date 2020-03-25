@@ -15,7 +15,6 @@ Berikut foto saat dijalankannya protokol upload:
 ![alt](https://github.com/Kyielas/progjar-b-its-2020/blob/master/tugas4/img/upload-server.png)
 
 Lalu, file baru akan muncul di folder Server,
-
 ![alt](https://github.com/Kyielas/progjar-b-its-2020/blob/master/tugas4/img/gambar-terupload.png)
 
 <b>2. Protokol Download (Mengambil File)</b>
