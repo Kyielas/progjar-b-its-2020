@@ -9,5 +9,5 @@ Program akan melakukan download dengan menggunakan multi threading. Disini saya 
 2. Jalannya client.py pada terminal
 ![alt terminal](client.py-jalan.png)
 3. Gambar yang diunduh (2 gambar)
-![alt gambar](jerry.jpg)(width="853" height="480") 
+![alt gambar](jerry.jpg)
 ![alt_gambar](PicsArt_11-05-06.49.16.jpg)
