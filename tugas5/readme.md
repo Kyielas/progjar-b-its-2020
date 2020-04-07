@@ -1,4 +1,4 @@
-<h1>Layanan chat dengan Multithreaded server</h1>
+<h1>Multithreaded Server Chat Service</h1>
 
 Layanan ini mempunyai beberapa fitur, berikut fitur-fiturnya:
 <ol>
