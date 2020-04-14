@@ -7,7 +7,7 @@
 
 * Kemudian, bukalah chrome web browser dan aktifkan developer mode bagian network. Lalu bukalah alamat http://127.0.0.1:10001. Maka akan muncul tampilan sebagai berikut :
 
-![alt text](screenshot/tampilan.PNG)
+![alt text](screenshot/tampilan.png)
 
 * Setelah membuka di web browser, di server_thread_http.py akan mengoutput:
 
