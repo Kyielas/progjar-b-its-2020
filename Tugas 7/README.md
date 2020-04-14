@@ -1,4 +1,4 @@
-**Laporan TUGAS 7 ada di <a href="https://github.com/IsnainiNurul/PROGJAR_05111740000010/blob/master/Tugas%207/Laporan%20Tugas%207_Isnaini%20Nurul%20KurniaSari_05111740000010.pdf">Laporan Tugas 7 Isnaini_05111740000010</a>**
+
 
 **Performance Test sederhana hanya bisa dilakukan di linux/unix based**
 - Menggunakan apachebenchark, dengan command ab
